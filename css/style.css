@@ -1,0 +1,23 @@
+
+/* ALL COMMON CSS START  */
+*{
+    margin: 0;
+    padding: 0;    
+}
+.container{
+    width: 1140px;
+    margin: 0auto;
+}
+ul, ol{
+/* LEKHAR PAHER DOT SIGN ERASE KORE */
+    list-style-type: none;
+}
+a{
+    /* LEKHAR NICHER UNDERLINE ERASE KORE */
+
+    text-decoration: none;
+}
+/* ALL COMMON CSS END  */
+.header{
+    background: ;
+}
